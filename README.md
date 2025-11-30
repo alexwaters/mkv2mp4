@@ -11,3 +11,5 @@ Tested working on windows 10 (x64)
 It should preserve all of the audio tracks and process fairly quickly. It isn't re-encoding, but just extracting and placing in a new container.
 
 Submit any issues to the issue tracker and hopefully I can help
+
+I wrote this while listening to https://www.youtube.com/watch?v=Hy8kmNEo1i8 -- so it's probably my best code
